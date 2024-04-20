@@ -5,13 +5,14 @@ It is a portal where u can post jobs with simple but user friendly design.
 ## Default view of the website
 
 Homepage
+<br>
+
 ![homepage](/homepage.png)
 
 Job Page
-![jobpage](/jobpage.png)
+<br>
 
-Job Filter
-![jobfilter](/jobfilter.png)
+![jobpage](/jobpage.png)
 
 ## 💻phoenixdev100
 
