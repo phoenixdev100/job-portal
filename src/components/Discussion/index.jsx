@@ -178,6 +178,7 @@ export default function Discussion() {
                 {imageUrl && (
                   <img
                     src={imageUrl}
+                    alt="Comment preview"
                     data-testid="image-preview"
                     className={`${imageUrl ? "image-text-editor" : ""}`}
                   />
